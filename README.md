@@ -1,4 +1,4 @@
-## Hi, my name is Ramon!
+## Olá, meu nome é Ramon!
 
  <div>
    <a href="https://github.com/Ramonffonseca">
@@ -14,7 +14,7 @@
 </div>
  <hr>
  
-  ### Get in touch with me on social media!
+  ### Entre em contato comigo!
  
 <div> 
 <a href="https://www.linkedin.com/in/ramon-fonseca-a4b664252/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
